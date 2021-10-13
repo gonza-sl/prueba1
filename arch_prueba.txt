@@ -1,3 +1,4 @@
 primer commit
 primer commit en rama1
 commit en master (despues del primer merge que antes del segundo) - como si fuera un hotfix
+primer commit en rama1 después del merge
