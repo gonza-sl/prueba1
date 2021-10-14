@@ -3,5 +3,5 @@ primer commit en rama1
 commit en master (despues del primer merge que antes del segundo) - como si fuera un hotfix
 primer commit en rama1 después del merge
 primer commit en la rama saludo
-pirmer commit en rama3
+primer commit en rama3
 
